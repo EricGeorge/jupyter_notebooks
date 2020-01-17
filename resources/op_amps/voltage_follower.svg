@@ -1,0 +1,85 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="326"
+     height="136">
+    <defs/>
+    <g transform=" scale(0.77) translate(-579.6875,-326)">
+        <rect x="679" y="399" width="2" height="2" fill="#000000" stroke="none"
+              pointer-events="none"/>
+        <rect x="679" y="359" width="2" height="2" fill="#000000" stroke="none"
+              pointer-events="none"/>
+        <rect x="809" y="379" width="2" height="2" fill="#000000" stroke="none"
+              pointer-events="none"/>
+        <path d="M 700.07 430 L 700.07 330 L 790.07 380 Z" fill="#ffffff"
+              stroke="#000000" stroke-width="2" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 680.93 400 L 698.93 400" fill="none" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 681.07 360 L 699.07 360" fill="none" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 790.07 380 L 809.07 380" fill="none" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 708.05 400 L 715.89 400" fill="none" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 708.05 360 L 715.89 360" fill="none" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 711.97 356.08 L 711.97 363.92" fill="none" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <rect x="710" y="480" width="83" height="13" fill-opacity="0"
+              fill="#dae2f2" stroke="none" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="18px">
+            <text x="751.5" y="493.5">
+                Voltage Follower
+            </text>
+        </g>
+        <rect x="649" y="359" width="2" height="2" fill="#000000" stroke="none"
+              pointer-events="none"/>
+        <path d="M 632 360 L 649 360" fill="#000000" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 627.06 354.34 L 632.72 360 L 627.06 365.66" fill="none"
+              stroke="#000000" stroke-width="2" stroke-linecap="square"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="590" y="350" width="16" height="13" fill-opacity="0"
+              fill="#dae2f2" stroke="none" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="18px">
+            <text x="598" y="363.5">
+                Vin
+            </text>
+        </g>
+        <rect x="889" y="379" width="2" height="2" fill="#000000" stroke="none"
+              transform="rotate(180,880,380)" pointer-events="none"/>
+        <path d="M 872 380 L 889 380" fill="#000000" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              transform="rotate(180,880,380)" pointer-events="none"/>
+        <path d="M 876.91 374.34 L 871.26 380 L 876.91 385.66" fill="none"
+              stroke="#000000" stroke-width="2" stroke-linecap="square"
+              stroke-miterlimit="10" transform="rotate(180,880,380)"
+              pointer-events="none"/>
+        <rect x="910" y="370" width="22" height="13" fill-opacity="0"
+              fill="#dae2f2" stroke="none" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="18px">
+            <text x="921" y="383.5">
+                Vout
+            </text>
+        </g>
+        <path d="M 650 360 L 680 360" fill="none" stroke="#000000"
+              stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 810 380 L 870 380" fill="none" stroke="#000000"
+              stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 680 400 L 680 460 L 830 460 L 830 382" fill="none"
+              stroke="#000000" stroke-width="2" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <ellipse cx="830" cy="380" rx="2" ry="2" fill="#000000" stroke="#000000"
+                 stroke-width="2" pointer-events="none"/>
+    </g>
+</svg>
