@@ -55,3 +55,6 @@ JuceLibraryCode/
 # Jupiter Notebooks
 .ipynb_checkpoints
 
+#python
+.python_version
+
